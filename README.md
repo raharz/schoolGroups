@@ -1,2 +1,4 @@
 # schoolGroups
-some code to test OBJECT data type.
+
+some code to test OBJECT data type on javaScript.
+
