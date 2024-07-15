@@ -48,3 +48,4 @@ let school = {
 };
 
 console.log(school);
+console.log(school.classA.student1);
